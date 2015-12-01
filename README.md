@@ -1,50 +1,7 @@
 写一些 markdown的语法，现在用着还不熟练。 熟练了在整理。
+具体语法demo可以参看[教程](https://github.com/iAmeng/README)
 
-大标题
-===========
-这是内容， 普通文本<br/>
-中标题
------------
-
-#一级标题  
-##二级标题  
-###三级标题  
-####四级标题  
-#####五级标题  
-######六级标题  
-
-回车试试，回车试试<br/><br/>
-回车试试，回车试试<br/>
-    tab测试位置。<br/>
-    tab无效么<br/>
-<br/>
-`高亮的文字`<br/>
-
-[这是超链](http://blog.csdn.net/guodongxiaren "鼠标悬停") <br/>
-
-* 星号代表圆点，星号后面要加空格
-*星号代表圆点，没加空格就是星号
-* 星号代表圆点
-* 一级圆点
-  * 二级圆点
-    * 三级圆点
-
-缩进
->数据结构  
->>树  
->>>二叉树  
->>>>平衡二叉树  
->>>>>满二叉树  
-
-插入网络图片
-![插入网络图片](https://github.com/christophesmet/colorpicker/blob/master/video_example.gif) 
-
-# androidweeklyresource
-用于记录各种AndroidWeekly发布的libs
-
-点击带有链接的图片，下面这个图片点了是到 一篇介绍 markdown的文章中。
-
-[![插入图片](https://github.com/christophesmet/colorpicker/blob/master/video_example.gif)](http://blog.csdn.net/kaitiren/article/details/38513715)
+如果下文中找不到你想要的：在github 搜索关键字 ： [awesome](https://github.com/sindresorhus/awesome) [awesome-ui-android](https://github.com/wasabeef/awesome-android-ui)- 向internet 上的Android 大神们致敬
 
 正式记录 androidweekly  的libs 
 =================================================================
