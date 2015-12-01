@@ -72,6 +72,9 @@ start at Androidweekly 181
 ###ImageryHeader
 [![效果图片](https://camo.githubusercontent.com/d5bb4ddb19127dac1c90b626dc8bc8bd0e7d5672/687474703a2f2f322e62702e626c6f6773706f742e636f6d2f2d6552317277335830626e342f55395f45767a47593133492f41414141414141414174772f3343716f4c5067627448592f733634302f7375726661636532622e676966)](https://github.com/YukiMatsumura/ImageryHeader)
 
+###JellyViewPager
+[![效果图片](https://github.com/chiemy/JellyViewPager/blob/master/capture.gif)](https://github.com/chiemy/JellyViewPager)
+
 ###
 [![效果图片]()]()
 
