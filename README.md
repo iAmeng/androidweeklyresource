@@ -3,6 +3,17 @@
 
 如果下文中找不到你想要的：在github 搜索关键字 ： [awesome](https://github.com/sindresorhus/awesome) [awesome-ui-android](https://github.com/wasabeef/awesome-android-ui)- 向internet 上的Android 大神们致敬
 
+应该分层,分类记录
+
+1 自定义的VIEW - 加载dialog
+                 下拉刷新
+                 引导图 ...
+2 工具类 : 网络请求
+           依赖注入
+           数据库...
+           
+
+
 正式记录 androidweekly  的libs 
 =================================================================
 start at Androidweekly 181
@@ -95,5 +106,7 @@ A fast，flexible，powerful ImageView that supports rounded corners，circles�
 [This](https://github.com/tmiyamon/gradle-config?utm_source=Android+Weekly&utm_campaign=15ee59bb7a-Android_Weekly_181&utm_medium=email&utm_term=0_4eb677ad19-15ee59bb7a-337852909) plugin helps you to easily handle variant specific settings with yaml format.
 [![效果图片]()](https://github.com/tmiyamon/gradle-config?utm_source=Android+Weekly&utm_campaign=15ee59bb7a-Android_Weekly_181&utm_medium=email&utm_term=0_4eb677ad19-15ee59bb7a-337852909)
 
+###SQLDelight
+一个可以根据 SQL 语句生成 Java models 代码的插件.[![link](https://github.com/square/sqldelight)].
 
 
