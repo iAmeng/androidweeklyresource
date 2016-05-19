@@ -129,9 +129,11 @@ Android library to get device information in a super easy way
 ###navi 给Acitivity & Fragment添加监听事件的工具, 可以集中在一起添加了.
 [![Link]()](https://github.com/trello/navi)
 
-#A
-##B
-###C
+###Tesela 一个快速生成MVP架构的代码框架.https://github.com/raycoarana/tesela
+Tesela is a code generate based library that helps you implement Model-View-Presenter pattern on Android. It let you annotate methods to make them be executed on UI thread or on a background thread. It will help you to keep a weak reference to the view, so forget about leaking your Fragment or Activity anymore while your background work finishes.
+
+###QUick sand 图片消失的动画效果.
+[![Screen](https://github.com/blundell/QuickSand/raw/master/demo/demo_z1c.gif)](https://github.com/blundell/QuickSand)
 
 
 
@@ -143,6 +145,7 @@ Android library to get device information in a super easy way
 ======================================================================================================================================
 ###ClassyShark 一个
 [![效果图片](https://github.com/google/android-classyshark/blob/master/Resources/ClassySharkAnimated.gif)](https://github.com/google/android-classyshark?utm_source=Android+Weekly&utm_campaign=15ee59bb7a-Android_Weekly_181&utm_medium=email&utm_term=0_4eb677ad19-15ee59bb7a-337852909)
+ClassyShark is a standalone tool for Android developers. It can reliably browse any Android executable and show important info such as class interfaces and members, dex counts and dependencies. The browser supports multiple formats including libraries (.dex, .aar, .so), executables (.apk, .jar, .class) and all Android binary xmls: AndroidManifest, resources, layouts etc'.
 
 ###gradle-config  
 [This](https://github.com/tmiyamon/gradle-config?utm_source=Android+Weekly&utm_campaign=15ee59bb7a-Android_Weekly_181&utm_medium=email&utm_term=0_4eb677ad19-15ee59bb7a-337852909) plugin helps you to easily handle variant specific settings with yaml format.
