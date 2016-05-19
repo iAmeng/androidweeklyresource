@@ -5,6 +5,8 @@
 
 应该分层,分类记录
 
+0-aswsome-Android List [![Awesome]](https://github.com/snowdream/awesome-android#utility)  好东西,这里都有.
+
 1 自定义的VIEW - 加载dialog
                  下拉刷新
                  引导图 ...
@@ -90,6 +92,46 @@ A fast，flexible，powerful ImageView that supports rounded corners，circles�
 ###permissions-dispatcher-plugin_快速生成权限代码
 [![框架]https://github.com/shiraji/permissions-dispatcher-plugin/blob/master/website/images/pd.gif](https://github.com/shiraji/permissions-dispatcher-plugin)
 
+###Android-Coverflow banner_切换动画.
+[![动画](https://github.com/crosswall/Android-Coverflow/blob/master/gif/3.pic_hd.gif)](https://github.com/crosswall/Android-Coverflow)
+
+###EasySplashScreen 自定义SplashScreen
+[![Screen](https://github.com/pantrif/EasySplashScreen/blob/master/resources/intro.png)](https://github.com/pantrif/EasySplashScreen)
+
+###MusicBobber _ 播放器bar
+[![Screen](https://github.com/Cleveroad/MusicBobber/blob/master/images/header_.jpg)](https://github.com/Cleveroad/MusicBobber)
+
+###GithubWidget 一种图标
+[![Screen](https://github.com/Nightonke/GithubWidget/blob/master/Pic/title_image_3.png?raw=true)](https://github.com/Nightonke/GithubWidget)
+[![Screen](https://github.com/Nightonke/GithubWidget/blob/master/Pic/color.png?raw=true)](https://github.com/Nightonke/GithubWidget)
+
+###shuffle 拖动切换图片
+[![GIF](https://github.com/Meetic/Shuffle/raw/master/media/shuffle.gif)](https://github.com/Meetic/Shuffle)
+
+###MaryPopup POPUP 弹出效果的VIEW 
+[![Screen](https://github.com/Meetic/MaryPopup/raw/master/media/intro.gif)](https://github.com/Meetic/MaryPopup)
+[![Screen](https://github.com/Meetic/MaryPopup/raw/master/media/photo.gif)](https://github.com/Meetic/MaryPopup)
+
+###android-widget-fanmenu
+[![Screen](https://camo.githubusercontent.com/bab8d4d1061dca2957e0ad34b027faa7c5f76951/687474703a2f2f692e67697068792e636f6d2f6c3044454b484e7166777743546d5338552e676966)](https://github.com/BCGDV-ASIA/android-widget-fanmenu)
+[![Screen](https://camo.githubusercontent.com/ddce1ecaffae5193fd6f4658f963b5e5afa3071c/687474703a2f2f692e67697068792e636f6d2f6571656b3159644632554652362e676966)](https://github.com/BCGDV-ASIA/android-widget-fanmenu)
+
+###AdvancedRecyclerView 高级RecyclerView
+[![Screen](https://github.com/StephenVinouze/AdvancedRecyclerView/raw/master/art/sections_framed.png)](https://github.com/StephenVinouze/AdvancedRecyclerView)
+
+###easydeviceinfo 一个超级好用的设备信息lib哦  Device
+Android library to get device information in a super easy way
+[![Screen](DeviceInfo)](https://github.com/nisrulz/easydeviceinfo)
+
+###flexbox-layout 
+[![Screen](https://github.com/google/flexbox-layout/raw/master/assets/flex-direction.gif)](https://github.com/google/flexbox-layout)
+
+###navi 给Acitivity & Fragment添加监听事件的工具, 可以集中在一起添加了.
+[![Link]()](https://github.com/trello/navi)
+
+#A
+##B
+###C
 
 
 
