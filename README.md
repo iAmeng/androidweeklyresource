@@ -50,6 +50,37 @@ LuaView 是一种运行在一个 ViewController/Activity 中，可以灵活加�
 ###ScratchView_类似刮奖券的效果
 [![DEMO_SCREEN](https://raw.githubusercontent.com/cooltechworks/ScratchView/2ec97c9a539d5976b68bf62ec07df8c727d72be2/screenshots/scratch_image_view_demo.gif)][![DEMO_SCREEN](https://raw.githubusercontent.com/cooltechworks/ScratchView/master/screenshots/scratch_text_view_demo.gif)](https://github.com/cooltechworks/ScratchView)
 
+###easy-video-player_音乐播放器
+[![动画GIF](https://raw.githubusercontent.com/afollestad/easy-video-player/master/art/showcase1.png)](https://github.com/afollestad/easy-video-player)
+
+###android-ndk-gif_NDK-GIF-LIB
+GIF library built with ndk and gradle in aar format for usage with android gradle build system.[![link](https://github.com/waynejo/android-ndk-gif)]
+
+###UpdatePlugin_可任意定制的App更新App组件
+可任意定制的app更新组件。[![link]](https://github.com/yjfnypeu/UpdatePlugin)
+
+###EffectiveShapeView_圆的,方的,三角的VIEW
+A fast，flexible，powerful ImageView that supports rounded corners，circles，polygon.Used by shader which is fastest model of draw. This is based on RoundedImageView from Vince Mi， but more lightweight(under 400 line code).[![link]](https://github.com/TangXiaoLv/EffectiveShapeView)
+[![screen](https://raw.githubusercontent.com/TangXiaoLv/EffectiveShapeView/master/png/first.jpg)][![screen](https://raw.githubusercontent.com/TangXiaoLv/EffectiveShapeView/master/png/second.jpg)]
+
+###BubbleLayout_气泡layoyt
+[![screen](https://github.com/MasayukiSuda/BubbleLayout/blob/master/art/all.gif)](https://github.com/MasayukiSuda/BubbleLayout)
+
+###UberProgressView_加载动画
+[![screen](https://raw.githubusercontent.com/ishan1604/uberprogressview/master/UberProgressViewDemo.gif)]https://github.com/ishan1604/uberprogressview
+
+###VSerializer_一个使用内存较小的 Serialible & unSerialible Lib
+[![link]](https://github.com/vaslabs/VSerializer)
+
+###Applozic-Android-SDK_一个能快速集成的聊天框架
+[![聊天框架](https://github.com/AppLozic/Applozic-Android-SDK/blob/master/img/applozic.jpg)]
+[![screen](https://github.com/AppLozic/Applozic-Android-SDK/blob/master/img/android.png)](https://github.com/AppLozic/Applozic-Android-SDK)
+
+###permissions-dispatcher-plugin_快速生成权限代码
+[![框架]https://github.com/shiraji/permissions-dispatcher-plugin/blob/master/website/images/pd.gif](https://github.com/shiraji/permissions-dispatcher-plugin)
+
+
+
 
 
 
