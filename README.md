@@ -35,6 +35,9 @@ start at Androidweekly 181
 ###
 [![效果图片]()]()
 
+###paper-onboarding-android 带有动画效果的viewpager切换
+[![动画GIF](https://github.com/Ramotion/paper-onboarding-android/blob/master/onboarding_preview.gif)](https://github.com/Ramotion/paper-onboarding-android)
+
 
 
 
