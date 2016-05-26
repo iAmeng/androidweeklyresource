@@ -135,6 +135,8 @@ Tesela is a code generate based library that helps you implement Model-View-Pres
 ###QUick sand 图片消失的动画效果.
 [![Screen](https://github.com/blundell/QuickSand/raw/master/demo/demo_z1c.gif)](https://github.com/blundell/QuickSand)
 
+### 时间控件 picker
+[![Srceen](https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_calendar_date.png)]https://github.com/code-troopers/android-betterpickers
 
 
 
