@@ -137,7 +137,8 @@ Tesela is a code generate based library that helps you implement Model-View-Pres
 
 ### 时间控件 picker
 [![Srceen](https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_calendar_date.png)]https://github.com/code-troopers/android-betterpickers
-
+### TextView advancedtextview
+[![Screen](https://github.com/oktayayr/advancedtextview/raw/master/arts/bebas.png)]https://github.com/oktayayr/advancedtextview
 
 
 
