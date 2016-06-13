@@ -141,7 +141,7 @@ Tesela is a code generate based library that helps you implement Model-View-Pres
 [![Screen](https://github.com/oktayayr/advancedtextview/raw/master/arts/bebas.png)]https://github.com/oktayayr/advancedtextview
 
 ###礼物冒泡特效
-[![Screen]https://camo.githubusercontent.com/dcac7c2c31993d2a7c38dbf4bed192579bc05978/687474703a2f2f646979636f64652e62302e7570616979756e2e636f6d2f70686f746f2f323031362f35356238306334633237306534316534323963343638393733663231356363372e676966]https://github.com/Yasic/QQBubbleView
+[![Screen]https://camo.githubusercontent.com/dcac7c2c31993d2a7c38dbf4bed192579bc05978/687474703a2f2f646979636f64652e62302e7570616979756e2e636f6d2f70686f746f2f323031362f35356238306334633237306534316534323963343638393733663231356363372e676966] https://github.com/Yasic/QQBubbleView
 
 
 
