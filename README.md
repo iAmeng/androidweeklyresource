@@ -159,4 +159,7 @@ ClassyShark is a standalone tool for Android developers. It can reliably browse 
 ###SQLDelight
 一个可以根据 SQL 语句生成 Java models 代码的插件.[![link](https://github.com/square/sqldelight)].
 
+###渠道打包
+Android Multi channel package tool （安卓多渠道打包工具）[![link](https://github.com/seven456/MultiChannelPackageTool)].
+
 
