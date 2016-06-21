@@ -143,6 +143,16 @@ Tesela is a code generate based library that helps you implement Model-View-Pres
 ###礼物冒泡特效
 [![Screen](https://camo.githubusercontent.com/dcac7c2c31993d2a7c38dbf4bed192579bc05978/687474703a2f2f646979636f64652e62302e7570616979756e2e636f6d2f70686f746f2f323031362f35356238306334633237306534316534323963343638393733663231356363372e676966)] (https://github.com/Yasic/QQBubbleView)
 
+###android-drag-square 拖拽方块
+[![Screen](https://github.com/xmuSistone/android-drag-square/blob/master/capture1.gif)](https://github.com/xmuSistone/android-drag-square)
+
+###FlycoSystemBar 沉浸式状态栏
+[![Screen](https://github.com/H07000223/FlycoSystemBar/blob/master/art/5.0.gif)](https://github.com/H07000223/FlycoSystemBar)
+
+###FaceOffToggleButton toogleButton
+[![Screen](https://github.com/Nightonke/FaceOffToggleButton/blob/master/img/Animation.gif?raw=true)](https://github.com/Nightonke/FaceOffToggleButton)
+
+
 
 
 
