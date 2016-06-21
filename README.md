@@ -152,6 +152,9 @@ Tesela is a code generate based library that helps you implement Model-View-Pres
 ###FaceOffToggleButton toogleButton
 [![Screen](https://github.com/Nightonke/FaceOffToggleButton/blob/master/img/Animation.gif?raw=true)](https://github.com/Nightonke/FaceOffToggleButton)
 
+###Google 2016 Android IO 视频 优酷
+[![Screen()]](http://chinagdg.org/2016/05/google-io-2016-android/)
+
 
 
 
@@ -174,3 +177,9 @@ Android Multi channel package tool （安卓多渠道打包工具）[![link](htt
 
 ###动画库 yava
 [![link](https://github.com/hujiaweibujidao/yava)]
+
+###InstaCapture 截屏工具
+[![Screen()]](https://github.com/tarek360/InstaCapture)
+
+###MultiBackStack 导航工具
+[![Screen]()](https://github.com/JetradarMobile/multibackstack)
