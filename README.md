@@ -155,6 +155,9 @@ Tesela is a code generate based library that helps you implement Model-View-Pres
 ###Google 2016 Android IO 视频 优酷
 [![Screen()]](http://chinagdg.org/2016/05/google-io-2016-android/)
 
+### BottomDialog
+[![Screen](https://github.com/Curzibn/BottomDialog/raw/master/art/demo.gif)](https://github.com/Curzibn/BottomDialog)
+
 
 
 
@@ -168,6 +171,9 @@ ClassyShark is a standalone tool for Android developers. It can reliably browse 
 ###gradle-config  
 [This](https://github.com/tmiyamon/gradle-config?utm_source=Android+Weekly&utm_campaign=15ee59bb7a-Android_Weekly_181&utm_medium=email&utm_term=0_4eb677ad19-15ee59bb7a-337852909) plugin helps you to easily handle variant specific settings with yaml format.
 [![效果图片]()](https://github.com/tmiyamon/gradle-config?utm_source=Android+Weekly&utm_campaign=15ee59bb7a-Android_Weekly_181&utm_medium=email&utm_term=0_4eb677ad19-15ee59bb7a-337852909)
+
+### BaseRecyclerViewAdapterHelper
+https://github.com/MorningGu/BaseRecyclerViewAdapterHelper
 
 ###SQLDelight
 一个可以根据 SQL 语句生成 Java models 代码的插件.[![link](https://github.com/square/sqldelight)].
