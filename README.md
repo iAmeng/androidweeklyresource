@@ -158,6 +158,32 @@ Tesela is a code generate based library that helps you implement Model-View-Pres
 ### BottomDialog
 [![Screen](https://github.com/Curzibn/BottomDialog/raw/master/art/demo.gif)](https://github.com/Curzibn/BottomDialog)
 
+### SnappySmoothScroller
+[![Screen](https://github.com/nshmura/SnappySmoothScroller/raw/master/assets/demo.gif)](https://github.com/nshmura/SnappySmoothScroller)
+
+### WrappingViewPager 自适应高度的viewpager
+[![Screen](https://camo.githubusercontent.com/c4e619027d5de20a29ded67de75e63a4b392db7d/68747470733a2f2f7468756d62732e6766796361742e636f6d2f5265616c6973746963426c69737366756c4164616d7373746167686f726e6564626565746c652d73697a655f726573747269637465642e676966)](https://github.com/iffa/wrapping-viewpager)
+
+### RelativePopupWindow 相对View坐标的popwindow
+[![Screen](https://github.com/kakajika/RelativePopupWindow/raw/master/art/art1.gif)](https://github.com/kakajika/RelativePopupWindow)
+
+### FloatingText 会在view 浮着的textview 有动画
+[![Screen](https://github.com/UFreedom/FloatingText/raw/master/demo.gif)](https://github.com/UFreedom/FloatingText)
+
+###   Fog View Android Library  雾化UI控件
+[![Screen](https://github.com/dynamitechetan/FogView_Library/raw/master/screenshots/screen1.gif)](https://github.com/dynamitechetan/FogView_Library)
+
+### DiscreteSlider 滑动到固定位置的seekbar
+[![A](https://raw.githubusercontent.com/lawloretienne/DiscreteSlider/master/images/DiscreteSlider_Screenshot4.png)](https://github.com/lawloretienne/DiscreteSlider)
+
+### WheelPicker 轮子 效果不错.
+[![A](https://github.com/AigeStudio/WheelPicker/raw/master/Previews/main/Preview.gif)](https://github.com/AigeStudio/WheelPicker)
+
+### fabuless FloatButton的另外版本
+[![A](https://github.com/beworker/fabuless/raw/master/web/fab.gif)](https://github.com/beworker/fabuless)
+
+### 饿了么 购物车效果 ElemeShoppingView
+[![A](https://camo.githubusercontent.com/bcf966b31e9d2cb16ad81341fed16627dc2f30e9/687474703a2f2f69322e7069696d672e636f6d2f313037302f303232353766393331366262646362362e676966)](https://github.com/JeasonWong/ElemeShoppingView)
 
 
 
@@ -189,3 +215,11 @@ Android Multi channel package tool （安卓多渠道打包工具）[![link](htt
 
 ###MultiBackStack 导航工具
 [![Screen]()](https://github.com/JetradarMobile/multibackstack)
+
+### IPC 框架
+[![LINK]](https://github.com/Xiaofei-it/Hermes)
+### HermesEventBus  IPC EnvenBus
+一个基于EventBus的、能在进程间发送和接收event的库，在IPC或者插件开发中非常有用
+[![Link]](https://github.com/eleme/HermesEventBus)
+
+
