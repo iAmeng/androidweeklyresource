@@ -137,6 +137,10 @@ Tesela is a code generate based library that helps you implement Model-View-Pres
 
 ### 时间控件 picker
 [![Srceen](https://raw.githubusercontent.com/code-troopers/android-betterpickers/master/sample/imagery/screenshot_calendar_date.png)](https://github.com/code-troopers/android-betterpickers)
+
+### CalendarView  时间控件 支持多选
+[![时间控件_支持多选]]https://github.com/henry-newbie/CalendarView
+
 ### TextView advancedtextview
 [![Screen](https://github.com/oktayayr/advancedtextview/raw/master/arts/bebas.png)](https://github.com/oktayayr/advancedtextview)
 
@@ -184,6 +188,18 @@ Tesela is a code generate based library that helps you implement Model-View-Pres
 
 ### 饿了么 购物车效果 ElemeShoppingView
 [![A](https://camo.githubusercontent.com/bcf966b31e9d2cb16ad81341fed16627dc2f30e9/687474703a2f2f69322e7069696d672e636f6d2f313037302f303232353766393331366262646362362e676966)](https://github.com/JeasonWong/ElemeShoppingView)
+
+### money textview 货币单位控件_钱币钱币
+[![钱币](https://raw.githubusercontent.com/fabiomsr/MoneyTextView/develop/art/screenshot1.png)](https://github.com/fabiomsr/MoneyTextView)
+
+### SparkButton 点赞Button
+[![点赞Button](https://github.com/varunest/SparkButton/raw/master/art/showcase.gif)](https://github.com/varunest/SparkButton)
+
+### ShineButton 点赞Button
+[![点赞Button](https://github.com/ChadCSong/ShineButton/raw/master/demo_shine_others.gif)](https://github.com/ChadCSong/ShineButton)
+
+### Pulsator4Droid 声波 脉冲动画
+[![脉冲动画](https://github.com/booncol/Pulsator4Droid/raw/master/demo.gif)](https://github.com/booncol/Pulsator4Droid)
 
 
 
